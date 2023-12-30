@@ -1,2 +1,2 @@
-# Email-Signature
-Email Signature Picture hosting for **Treno Rail**
+# Treno Rail CDN
+File hosting for **Treno Rail**
